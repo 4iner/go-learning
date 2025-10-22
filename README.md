@@ -1,6 +1,6 @@
 # Go Learning Repository
 
-A comprehensive guide to learning Go (Golang) from foundational concepts to advanced topics. This repository provides detailed explanations, practical examples, and hands-on exercises to master Go programming.
+A comprehensive guide to learning Go (Golang) from foundational concepts to advanced topics. This repository provides detailed explanations, practical examples, and hands-on exercises to master Go programming. DISCLAIMER: Made with cursor prompts
 
 ## 📚 Learning Path
 
